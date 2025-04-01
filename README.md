@@ -14,7 +14,7 @@
 <br>
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp; I am a graduate of the Full Stack Development course at Coderhouse.\
+🎓 &nbsp;I am a graduate of the Full Stack Development course at Coderhouse.\
 🌱 &nbsp;I'm on track for learning more about Web Applications, Systems Design, and Artificial Inteligence.\
 ✍️ &nbsp;In my free time, I enjoy going to the gym to work out and gaming. These activities help me stay active, unwind, and have fun.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
